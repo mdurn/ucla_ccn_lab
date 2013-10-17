@@ -43,3 +43,6 @@ Print out the disk usage of individuals of a group on the Hoffman2 cluster.
 
 The scripts contained in dependency folders or in the helpful_scripts folder were created by other developers.
 Thanks for the helpful tools! Also, thanks to everyone at the CCN lab who contributed to these scripts.
+
+![](http://api.mixpanel.com/track/?data=eyJldmVudCI6IlJlcG9zaXRvcnkgVmlld2VkIiwicHJvcGVydGllcyI6eyJ0b2tlbiI6Ijg2YWQ3Mjc5YmQzMGQ2MDMzMzQ0NjYwMDY3YzA1MTg1IiwiY2FtcGFpZ24iOiJ1Y2xhX2Njbl9sYWIifX0=&ip=1&img=1)
+![](http://www.pixelsite.info/track/t19137.gif)
